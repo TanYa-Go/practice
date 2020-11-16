@@ -1,0 +1,170 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300;400;700&display=swap');
+
+body {
+    /*font-family: sansita swashed, 'Times New Roman', Times, serif;*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    overflow-x: hidden;
+}
+
+.navbar-color {
+    background-color:  #88275d;
+    padding-left: 50px;
+}
+
+
+.navbar-color a {
+  color:  #fafafa;
+  
+  }
+
+.menuitem a {
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   padding-left: 20px;
+}
+.menuitem a:hover{
+    border-bottom: 3px solid #fafafa;
+}
+
+active{
+    border-bottom: 2px solid #fafafa;
+}
+
+.navbar-nav li{
+    padding-left: 20px;
+}
+
+.navbar-toggler{
+    border: 2px solid #fafafa;
+}
+
+.hero-container {
+    height: 750px;
+    background: url('../images/meditate.jpg') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    color: #fafafa;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.jumbotron {
+    text-align: center;
+    background:transparent;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 5px 3px 10px #000;
+}
+
+.lead {
+    font-size: xx-large;
+}
+  
+
+
+.btn {
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+      
+}
+.about {
+    height: 400px;
+    align-items:center;
+    justify-content: center;
+    color: #88275d;
+    text-align: center;
+    /*text-shadow: 5px 3px 10px rgba(0, 0, 0, 0.281);*/
+    letter-spacing: 2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.welcome-container {
+    height: 390px;
+    border: 1px #88275d solid;
+    margin-bottom: 70px; 
+    background-color: #88275d;
+    padding-right: 0;
+    
+ }
+
+.welcome{
+    height: 400px;
+    text-align: center;
+    color: #fafafa;
+    width: 70%;
+    padding: 45px 0px 0px 170px;
+    letter-spacing: 1px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.welcome-img {
+  padding-left: 252px;
+    
+}
+
+.quote-container {
+    height: 390px;
+    background-color: #88275d;;
+    color: #fafafa;
+    margin-bottom: 50px;
+    padding-left: 0;
+    
+}
+
+.quote-text {
+    
+    text-align: center;
+    height: 70%;
+    width: 50%;
+    padding: 40px 150px 50px 10px;
+    text-shadow: 5px 3px 10px #000;
+    letter-spacing: 1px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/*-------------------------------------------------------footer*/
+
+.social-media {
+    text-align: center;
+}
+
+.social-media li {
+    display:inline-block;
+}
+
+.social-media i {
+    font-size: 150%;
+    padding: 20%;
+    color:  #88275d;
+    margin-right: 50px;
+}
+
+
+footer{
+	height: 200px;
+    margin: 0;
+}
+
+.follow {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.contact {
+   text-align: center;
+   margin-top: 60px;
+}
+/*-----------------------------Newsletter------------*/
+.newsletter {
+    text-align: center;
+    padding-top: 60px;
+    background-color: grey;
+    color: #fafafa;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
