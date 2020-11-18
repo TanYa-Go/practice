@@ -33,13 +33,19 @@ Idea was to create a website that will be easy to navigate so that user can quic
 
 ## Wireframes 
 
-[Home page]("assets/wireframes/home.pdf")
+[Home Page](https://github.com/TanYa-Go/practice/blob/master/assets/home.pdf)
+[About Page]
+[Yoga Page]
+[Healing Page]
+[Retreats Page]
+[Contact Page]
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+
  
 ### Existing Features
+
 - Feature 1 - allows users X to achieve Y, by having them fill out Z
 - ...
 
